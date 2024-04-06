@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6e310296.css",
+    "main.js": "./static/js/main.b0b87070.js",
+    "static/media/Tablets.svg": "./static/media/Tablets.bd1c730a48c9946fb79ed39d355bb91e.svg",
+    "static/media/bannerFirst.svg": "./static/media/bannerFirst.622787b1a42f9465da075a6b6e1f0a6c.svg",
+    "static/media/bannerTablets.png": "./static/media/bannerTablets.3ab0c9b71cae9e04b094.png",
+    "static/media/bannerFirstPhone.svg": "./static/media/bannerFirstPhone.88a4f1480a819a019e4909ece5f3f2d7.svg",
+    "static/media/Accessories.svg": "./static/media/Accessories.68e051841aaaede9d7016892c13a542a.svg",
+    "static/media/bannerPhones.png": "./static/media/bannerPhones.f509ad3c8ed651749cb5.png",
+    "static/media/image.png": "./static/media/image.dcab4f334528f83ad1a5.png",
+    "static/media/Phones.svg": "./static/media/Phones.912cf91d54687c40a6fa908bf8b897b5.svg",
+    "static/media/bannerAccessories.png": "./static/media/bannerAccessories.6a3884f3f1091702f8ed.png",
+    "static/media/Logo.svg": "./static/media/Logo.df3dad2601611426fb1b.svg",
+    "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
+    "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/ShoppingBag.svg": "./static/media/ShoppingBag.df23e4fbb25ff3701b16.svg",
+    "static/media/HeartDefault.svg": "./static/media/HeartDefault.1c1258b121fe14953087fc9f9f6ddcc1.svg",
+    "static/media/Favourites.svg": "./static/media/Favourites.cc696932b63c19f48776.svg",
+    "static/media/Menu.svg": "./static/media/Menu.73ddde2c093f9fb313b9.svg",
+    "static/media/SliderButtonDefault.svg": "./static/media/SliderButtonDefault.5efc8a7e6c6aebb613a40830d2d4096b.svg",
+    "static/media/Vector.svg": "./static/media/Vector.da90476b8eccf209873b.svg",
+    "static/media/arrowDown.svg": "./static/media/arrowDown.54ab86d138acceab8599.svg",
+    "index.html": "./index.html",
+    "main.6e310296.css.map": "./static/css/main.6e310296.css.map",
+    "main.b0b87070.js.map": "./static/js/main.b0b87070.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e310296.css",
+    "static/js/main.b0b87070.js"
+  ]
+}
