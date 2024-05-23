@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.b21a3ba3.css",
-    "main.js": "./static/js/main.a617ab88.js",
+    "main.css": "./static/css/main.caed62e0.css",
+    "main.js": "./static/js/main.a80e14db.js",
     "static/media/categoryTablets.png": "./static/media/categoryTablets.ca160a01e0cef15991b3.png",
     "static/media/categoryPhones.png": "./static/media/categoryPhones.c8dd74a018e5fd03965e.png",
     "static/media/categoryAccessories.png": "./static/media/categoryAccessories.073f8df3f91ed96b6ef0.png",
     "static/media/Logo.svg": "./static/media/Logo.df3dad2601611426fb1b.svg",
     "static/media/bannerWatchDesktop.png": "./static/media/bannerWatchDesktop.7736cc464e74bf9c33ff.png",
     "static/media/bannerWatchMobile.png": "./static/media/bannerWatchMobile.273c3c1e32d1dc6c1025.png",
+    "static/media/productNotFound.png": "./static/media/productNotFound.8214da88616b09290166.png",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
     "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
     "static/media/bannerTabletDesktop.png": "./static/media/bannerTabletDesktop.700d1aecdd3b7a644f77.png",
@@ -15,6 +16,8 @@
     "static/media/bannerTabletMobile.png": "./static/media/bannerTabletMobile.079ddb358305f9ed8095.png",
     "static/media/bannerIphoneMobile.png": "./static/media/bannerIphoneMobile.d14c6db028e56d3efdb2.png",
     "static/media/bannerIphoneDesktop.png": "./static/media/bannerIphoneDesktop.f7997aba04277315b124.png",
+    "static/media/pageNotFound.png": "./static/media/pageNotFound.6f5b123471bc09721371.png",
+    "static/media/cartIsEmpty.png": "./static/media/cartIsEmpty.86ebaf664449a2f61e5e.png",
     "static/media/ShoppingBag.svg": "./static/media/ShoppingBag.df23e4fbb25ff3701b16.svg",
     "static/media/HeartDefault.svg": "./static/media/HeartDefault.1c1258b121fe14953087fc9f9f6ddcc1.svg",
     "static/media/Favourites.svg": "./static/media/Favourites.cc696932b63c19f48776.svg",
@@ -30,11 +33,11 @@
     "static/media/arrowDown.svg": "./static/media/arrowDown.54ab86d138acceab8599.svg",
     "index.html": "./index.html",
     "static/media/minus.svg": "./static/media/minus.6147cb5db4c975f91de08b377dc8a814.svg",
-    "main.b21a3ba3.css.map": "./static/css/main.b21a3ba3.css.map",
-    "main.a617ab88.js.map": "./static/js/main.a617ab88.js.map"
+    "main.caed62e0.css.map": "./static/css/main.caed62e0.css.map",
+    "main.a80e14db.js.map": "./static/js/main.a80e14db.js.map"
   },
   "entrypoints": [
-    "static/css/main.b21a3ba3.css",
-    "static/js/main.a617ab88.js"
+    "static/css/main.caed62e0.css",
+    "static/js/main.a80e14db.js"
   ]
 }
